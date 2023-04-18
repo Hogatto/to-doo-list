@@ -16,6 +16,6 @@ todoForm.addEventListener('submit', (e) => {
     const inputValue = todoInput.value
 
     if (inputValue) {
-        
+        console.log(inputValue)
     }
 })
