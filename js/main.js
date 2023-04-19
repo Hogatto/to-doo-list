@@ -59,7 +59,6 @@ let oldInputValue
         })
     }
 
-
 //eventos
 todoForm.addEventListener('submit', (e) => {
     e.preventDefault()
